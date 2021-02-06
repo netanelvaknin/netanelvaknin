@@ -1,15 +1,11 @@
 ### Hi there 👋
 <hr>
 <div>
-🏢 I'm currently working full-time at <a href="https://www.555.co.il">Bitach Yashir (Direct Insurance)</a>
-⚙️ I use daily: .rb, .js, .erb, .slim, .html, .scss, .svg, .png, .json, .yml, .sql
-🌍 I support and volunteer with: Code Nation, Built By Girls, AllStar Code
-💅 Active community member of: Out in Tech, Techqueria, Girls Who Code
-🌱 Learning more about and studying: Open Source, React, CS Algorithms
-💬 Ping me about: web design, social media, diversity & inclusion, mentorship, Beyonce
-📫 Reach me asap: Twitter or Millycodes@gmail.com
-💜 Interests: huge Beyonce fan, cryptocurrency enthusiast, foodie, 🐶 Kiki
-😄 Passionate about accessibility and committed to a web that works for everyone
+  <p>🏢 I'm currently working full-time at <a href="https://www.555.co.il">Bitach Yashir (Direct Insurance)</a><p>
+  <p>😄 In my free time I'm working on side project - <a href="https://github.com/netanelvaknin/dntor-client"/>Appointments system</a></p>
+  <p>⚙️ I use daily: .ts, .tsx, .js</p>
+  <p>💅 Sometimes I'm writing and sharing my knowledge in <a href="https://medium.com/@vakninetanel">Medium</a></p>
+  <p>📫 Reach me at: <a href="">Linkedin</a> or <a href="mailto:emailofnetanel@gmail.com">emailofnetanel@gmail.com</a><p>
 </div>
 
 <!--
