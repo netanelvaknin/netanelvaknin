@@ -1,5 +1,5 @@
-### Hi there 👋
-## My name is Netanel. Nice to meet you!
+👋  Heey!
+I'm Netanel Vaknin, a Front-End Engineer who lives in Israel.
 
 <div>
   <p>🏢 I'm currently working full-time at <a href="https://www.555.co.il">Bitach Yashir (Direct Insurance)</a><p>
