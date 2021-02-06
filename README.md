@@ -1,6 +1,6 @@
 ### Hi there 👋
 <hr>
-<h1>My name is Netanel. Nice to meet you!</h1>
+<h1 style="font-size: 16px;">My name is Netanel. Nice to meet you!</h1>
 <div>
   <p>🏢 I'm currently working full-time at <a href="https://www.555.co.il">Bitach Yashir (Direct Insurance)</a><p>
   <p>😄 In my free time I'm working on side project - <a href="https://github.com/netanelvaknin/dntor-client"/>Appointments system</a></p>
