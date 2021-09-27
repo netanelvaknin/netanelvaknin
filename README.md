@@ -5,7 +5,7 @@ I'm Netanel Vaknin, a Front-End Engineer who lives in Israel.
   <p>🏢 I'm currently working full-time at <a href="https://www.cmegroup.com/services/traiana.html">Traiana</a><p>
   <p>⚙️ I use daily: .ts, .tsx, .js</p>
   <p>💅 Sometimes I'm writing and sharing my knowledge in <a href="https://medium.com/@vakninetanel">Medium</a></p>
-  <p ✍️ Also, I'm sharing my knowledge at my own blog that I built using React & Node <a href="https://www.easy-front.dev/">Easy-front.dev</a></p>
+  <p 💅 Also, I'm sharing my knowledge at my own blog that I built using React & Node <a href="https://www.easy-front.dev/">Easy-front.dev</a></p>
   <p>📫 Reach me at: <a href="https://www.linkedin.com/in/netanel-vaknin/">Linkedin</a> || <a href="mailto:emailofnetanel@gmail.com">emailofnetanel@gmail.com</a><p>
 </div>
 
